@@ -64,7 +64,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <a href="[https://powerbi.microsoft.com/](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain)" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co/6Y4s7bG/power-bi-logo.png" alt="powerbi" width="40" height="40" style="background-color: #F2C811; padding: 5px; border-radius: 5px;"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
