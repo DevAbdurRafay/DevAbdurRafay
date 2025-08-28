@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devabdurrafay&theme=darkhub" alt="devabdurrafay" />
-  </a> 
-</p>
-
 - 🌱 I'm currently learning **Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau**
 
 - 👯 I'm looking to collaborate on **Data analysis or visualization projects using Power BI or Excel**
