@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
+<h3 align="center">Data Analyst</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" /> </p>
+
 # 💫 About Me:
 🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
 👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
@@ -34,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevAbdurRafay&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Inspiring Quote:-
+### ✍️ Inspiring Quote
 > 📊 **"Without data, you're just another person with an opinion."**  
 > — *W. Edwards Deming*
 
