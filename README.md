@@ -1,13 +1,33 @@
 <h1 align="center">Hi , I'm Abdul Rafay</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" />
+</p>
 
 # 💫 Ask me about:
 🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
 👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
 💬 Ask me about Power BI, Excel Dashboards, Power Query, Data Modeling  
 📫 Reach me on abdrafayrohail@gmail.com  
+
+---
+
+## 🌐 Socials:
+<p align="left">
+  <a href="https://facebook.com/me" style="all: unset; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abdur._rafay_" style="all: unset; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:abdrafayrohail@gmail.com" style="all: unset; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/abdulrafay5300" style="all: unset; cursor: pointer;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -47,7 +67,7 @@
 
 ---
 
-### 🚀 Top Repositories
+### 🚀 Top Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=DevAbdurRafay&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
