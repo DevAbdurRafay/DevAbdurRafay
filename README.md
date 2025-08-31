@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" /> </p>
 
-# 🚀 Ask me about:
+# 💫 Ask me about:
 🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
 👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
 💬 Ask me about Power BI, Excel Dashboards, Power Query, Data Modeling  
@@ -41,13 +41,13 @@
 
 ---
 
-### 📝 Quote:-
+### ✍️ Quote:-
 > 📊 **"Without data, you're just another person with an opinion."**  
 > — *W. Edwards Deming*
 
 ---
 
-### 🚩 Top Repositories
+### 🚀 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=DevAbdurRafay&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
