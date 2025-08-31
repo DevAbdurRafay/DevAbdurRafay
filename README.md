@@ -1,85 +1,47 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; font-size: 3rem; color: #ffffff; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);">
-  Hi <span style="font-size: 2.5rem;">👋</span>, I'm <span style="color: #1DB954; background: linear-gradient(45deg, #1DB954, #1ed760); padding: 0 8px; border-radius: 6px;">Abdul Rafay</span>
-</h1>
+# 💫 About Me:
+🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
+👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
+💬 Ask me about Power BI, Excel Dashboards, Power Query, Data Modeling  
+📫 Reach me on abdrafayrohail@gmail.com  
 
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #b3b3b3; font-weight: 600;">
-  Learning Data Analysis
-</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/me) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdur._rafay_) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdrafayrohail@gmail.com) 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=devabdurrafay&label=Profile%20views&color=0e75b6&style=flat" alt="devabdurrafay" /> 
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![AI Automation](https://img.shields.io/badge/AI%20Automation-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- 🌱 I'm currently learning **Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevAbdurRafay&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DevAbdurRafay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbdurRafay&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 👯 I'm looking to collaborate on **Data analysis or visualization projects using Power BI or Excel**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DevAbdurRafay&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **Power BI, Excel Dashboards, Power Query, Data Modeling**
+### ✍️ Inspiring Quote for Data Analysts
+> 📊 **"Without data, you're just another person with an opinion."**  
+> — *W. Edwards Deming*
 
-- 📫 How to reach me **abdrafayrohail@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/abdulrafay5300" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulrafay5300" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/abdul.rafay.944343" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.rafay.944343" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/abdur._rafay_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdur._rafay_" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" style="background-color: #001D26; padding: 5px; border-radius: 5px;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.ibb.co/6Y4s7bG/power-bi-logo.png" alt="powerbi" width="40" height="40" style="background-color: #F2C811; padding: 5px; border-radius: 5px;"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019–present%29.svg" alt="excel" width="40" height="40" style="background-color: #217346; padding: 5px; border-radius: 5px;"/> 
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DevAbdurRafay&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DevAbdurRafay&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabdurrafay&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devabdurrafay&show_icons=true&locale=en&theme=dark" alt="github-stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devabdurrafay&theme=dark" alt="github-streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
