@@ -34,7 +34,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevAbdurRafay&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Inspiring Quote for Data Analysts
+### ✍️ Inspiring Quote:-
 > 📊 **"Without data, you're just another person with an opinion."**  
 > — *W. Edwards Deming*
 
