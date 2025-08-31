@@ -14,20 +14,11 @@
 ---
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://facebook.com/me" style="all: unset; cursor: pointer;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/abdur._rafay_" style="all: unset; cursor: pointer;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:abdrafayrohail@gmail.com" style="all: unset; cursor: pointer;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/abdulrafay5300" style="all: unset; cursor: pointer;">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/me) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdur._rafay_) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdrafayrohail@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulrafay5300)
+
 
 ---
 
