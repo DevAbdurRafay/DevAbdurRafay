@@ -19,7 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdrafayrohail@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulrafay5300)
 
-
 ---
 
 ## ⚡ Skill Set:
