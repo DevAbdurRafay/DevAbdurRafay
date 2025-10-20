@@ -9,14 +9,14 @@
 🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
 👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
 💬 Ask me about Power BI, Excel Dashboards, Power Query, Data Modeling  
-📫 Reach me at: abdrafayrohail@gmail.com  
+📫 Reach me at: abdulrafayrohail@gmail.com 
 
 ---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/me) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdur._rafay_) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdrafayrohail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulrafay5300)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-8291aa37b/)
 
