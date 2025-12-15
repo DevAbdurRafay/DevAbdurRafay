@@ -38,14 +38,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAbdurRafay&theme=radical&row=1&margin-w=10&no-bg=true&no-frame=true&v=1"
-       alt="GitHub Trophies" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
