@@ -1,49 +1,73 @@
-<h1 align="center">Hi, I'm Abdul Rafay</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h1 align="center">
+  Hi there, I'm Abdul Rafay 👋
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Profile%20views&color=0e75b6&style=flat" alt="DevAbdurRafay" />
-</p>
+<h3 align="center">
+Aspiring Data Analyst
+</h3>
 
-## 💫 About Me:
-🌱 I'm currently learning Data Analysis, Supervised ML (Python, scikit-learn), Power BI advanced features, Tableau  
-👯 I'm looking to collaborate on Data analysis or visualization projects using Power BI or Excel  
-💬 Ask me about Power BI, Excel Dashboards, Power Query, Data Modeling  
-📫 Reach me at: abdulrafayrohail@gmail.com 
+![Profile Hits](https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square)
 
----
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/me)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdur._rafay_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abdulrafay5300)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=appveyor&logoColor=white)](https://arportolio.netlify.app/)
 
 ---
 
-## ⚡ Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 😊 Happy to see you here!
+
+I’m **Abdul Rafay**, a **BS-IT undergraduate student** and an **Aspiring Data Analyst**.  
+I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
+
+Currently, I am also pursuing a **1-year Diploma in AI & Data Science from SMIT**, where I am strengthening my foundation in Python, Machine Learning, AI models, and Data Analysis techniques.
+
+---
+
+## 🧠 Talking about Personal Stuff:
+
+- 🎓 BS-IT **Undergraduate Student**  
+- 📊 Aspiring **Data Analyst**  
+- 🤖 Enrolled in **AI & Data Science Diploma (SMIT – 1 Year)**  
+- 🧮 Working with **Power BI, Excel, SQL & Python**  
+- 🤝 Open to collaborate on **Data Analysis & Visualization projects**  
+- 💬 Ask me about **Power BI, Excel Dashboards & Data Modeling**  
+- 📫 Reach me at: **abdulrafayrohail@gmail.com**
+
+---
+
+## ⚡ Tools & Technologies:
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-3C4E6C?style=for-the-badge&logo=tableau&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-007ACC?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 What I’m Currently Focusing On:
+
+- ✔ Building **real-world Power BI dashboards**  
+- ✔ Improving **Excel efficiency & automation**  
+- ✔ Learning **AI & Data Science fundamentals**  
+- ✔ Working on **Time Series Data Analysis**  
+- ✔ Developing a strong **data analytics portfolio**
 
 ---
 
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=DevAbdurRafay&show_icons=true&theme=dark)<br/>
 ![](https://streak-stats.demolab.com?user=DevAbdurRafay&theme=dark)<br/>
 
----
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
----
-
-## 📌 Top Repositories:
+### 📌 Top Repositories:
 <img src="https://github-contributor-stats.vercel.app/api?username=DevAbdurRafay&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
+
+### ✍️ Daily Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
