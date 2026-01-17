@@ -10,7 +10,6 @@ Aspiring Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=appveyor&logoColor=white)](https://arportolio.netlify.app/)
 
 ---
 
