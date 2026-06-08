@@ -11,10 +11,25 @@
 
 ![Profile Hits](https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square)
 
-<p align="left">
-  <img align="right" alt="analysis" width="300"
-    src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
-</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Left Column: Intro Content -->
+    <td width="65%" valign="top" style="border: none; padding-right: 10px;">
+      <h3>😊 Happy to see you here</h3>
+      <p>
+        I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and an <strong>Aspiring Data Analyst</strong>.<br>
+        I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
+      </p>
+      <p>
+        Currently, I am also pursuing a <strong>1-year Diploma in AI & Data Science from SMIT</strong>, where I am strengthening my foundation in Python, Machine Learning, AI models, and Data Analysis techniques.
+      </p>
+    </td>
+    <!-- Right Column: The GIF -->
+    <td width="35%" valign="top" align="right" style="border: none;">
+      <img alt="analysis" width="100%" style="max-width: 300px; display: block;" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
+    </td>
+  </tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
