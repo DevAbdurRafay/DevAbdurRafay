@@ -15,7 +15,7 @@
   <tr style="border: none;">
     <!-- Left Column: Intro Content -->
     <td width="65%" valign="top" style="border: none; padding-right: 10px;">
-      <h3>😊 Happy to see you here</h3>
+      <h3>😊 𝙷𝚊𝚙𝚙𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎:</h3>
       <p>
         I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and an <strong>Aspiring Data Analyst</strong>.<br>
         I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
@@ -34,13 +34,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arportolio.netlify.app/)
-
-<h3>😊 𝙷𝚊𝚙𝚙𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎:</h3>
-
-I’m **Abdul Rafay**, a **BS-IT undergraduate student** and an **Aspiring Data Analyst**.  
-I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
-
-Currently, I am also pursuing a **1-year Diploma in AI & Data Science from SMIT**, where I am strengthening my foundation in Python, Machine Learning, AI models, and Data Analysis techniques.
 
 ---
 
