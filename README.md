@@ -12,7 +12,7 @@
 ![Profile Hits](https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square)
 
 <p align="left">
-  <img align="right" alt="analysis" width="340"
+  <img align="right" alt="analysis" width="300"
     src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
 </p>
 
