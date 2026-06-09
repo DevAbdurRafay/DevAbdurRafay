@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/DevAbdurRafay/DevAbdurRafay/blob/main/Readme%20Image.png" alt="GitHub Banner" width="100%" />
+</p>
 <h1 align="center">
   <span style="color:#B0B0B0;">
     𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝗜'𝗺 𝗔𝗯𝗱𝘂𝗹 𝗥𝗮𝗳𝗮𝘆 👋
