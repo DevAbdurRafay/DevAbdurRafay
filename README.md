@@ -9,7 +9,7 @@
 
 
 <p align="center" width="420">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=700&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+Developer;Turns+Raw+Data+into+Gold;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+Developer;Turns+Raw+Data+into+Gold;AI+%26+Data+Science+Student" alt="Typing SVG" />
 </p>
 
 ![Profile Hits](https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square)
