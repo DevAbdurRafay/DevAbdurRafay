@@ -9,7 +9,7 @@
 
 
 <p align="center" width="420">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+Developer;Turns+Raw+Data+into+Gold;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=Data+Analyst;Power+BI+Developer;Turns+Raw+Data+into+Gold;AI+%26+Data+Science+Student" alt="Typing SVG" />
 </p>
 
 ![Profile Hits](https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square)
@@ -20,7 +20,7 @@
     <td width="65%" valign="top" style="border: none; padding-right: 10px;">
       <h3>😊 𝙷𝚊𝚙𝚙𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎:</h3>
       <p>
-        I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and an <strong>Aspiring Data Analyst</strong>.<br>
+        I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and a<strong> Data Analyst</strong>.<br>
         I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
       </p>
       <p>
