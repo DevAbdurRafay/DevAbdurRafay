@@ -59,6 +59,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜: 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F3B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,6 +76,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 #### 𝙲𝚘𝚛𝚎 𝚂𝚔𝚒𝚕𝚕𝚜:  
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=for-the-badge)
