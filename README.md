@@ -104,9 +104,9 @@
 
 [![Railway Ticketing API](https://img.shields.io/badge/Railway%20Ticketing%20API-0B1F3A?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/DevAbdurRafay/railway_ticketing_api) <br/>
 
-[![Mobile Sales Insight](https://img.shields.io/badge/Mobile%20Sales%20Insight-1A1033?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/DevAbdurRafay/Mobile-Sales-Insight) <br/>
+[![AnalystGPT](https://img.shields.io/badge/AnalystGPT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/DevAbdurRafay/analystgpt)
 
-[![Superstore Sales Analysis](https://img.shields.io/badge/Superstore%20Sales%20Analysis-0F2A1D?style=for-the-badge&logo=github&logoColor=34D399)](https://github.com/DevAbdurRafay/Superstore_Sales_Analysis) <br/>
+[![Mobile Sales Insight](https://img.shields.io/badge/Mobile%20Sales%20Insight-1A1033?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/DevAbdurRafay/Mobile-Sales-Insight) <br/>
 
 [![Pizza Sales Analysis](https://img.shields.io/badge/Pizza%20Sales%20Analysis-2A1A0F?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/DevAbdurRafay/Pizza_Sales_Analysis)
 
