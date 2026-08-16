@@ -42,7 +42,7 @@
 
 ## 🧠 𝗧𝗮𝗹𝗸𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗦𝘁𝘂𝗳𝗳:
 - 🎓 BS-IT **Undergraduate Student**  
-- 📊 **Data Analyst**  
+- 📊 **Data Analyst** **| Python Enthusiast**  
 - 🤖 Enrolled in **AI & Data Science Diploma (SMIT – 1 Year)**  
 - 🧮 Working with **Power BI, Excel, SQL & Python**  
 - 🤝 Open to collaborate on **Data Analysis & Visualization projects**  
