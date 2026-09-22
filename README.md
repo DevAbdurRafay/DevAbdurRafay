@@ -19,24 +19,23 @@
     <!-- Left Column: Intro Content -->
     <td width="65%" valign="top" style="border: none; padding-right: 10px;">
       <h3>😊 𝙷𝚊𝚙𝚙𝚢 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎:</h3>
-      <p>
-        I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and a<strong> Data Analyst</strong>.<br>
-        I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
-      </p>
-      <p>
-        Currently, I am also pursuing a <strong>1-year Diploma in AI & Data Science from SMIT</strong>, where I am strengthening my foundation in Python, Machine Learning, AI models, and Data Analysis techniques.
-      </p>
-    </td>
-    <!-- Right Column: The GIF -->
-    <td width="35%" valign="top" align="right" style="border: none;">
-      <img alt="analysis" width="100%" style="max-width: 300px; display: block;" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
-    </td>
-  </tr>
-</table>
+     <p>
+  I’m <strong>Abdul Rafay</strong>, a <strong>BS-IT undergraduate student</strong> and a <strong>Data Analyst</strong>.<br>
+  I am passionate about working with data, creating dashboards, and extracting meaningful insights to support better decision-making.
+</p>
+
+<p>
+  Currently, I am also pursuing a <strong>1-year Diploma in AI & Data Science from SMIT</strong>, where I am strengthening my foundation in Python, Machine Learning, AI models, and Data Analysis techniques.
+</p>
+
+<p>
+  I am also working as a <strong>Data Analyst Intern at Meri Sehat</strong>, gaining practical experience with 
+  <strong>SQL, data analysis, data cleaning, reporting, and working with real-world healthcare data</strong>.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-071540397/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrafayrohail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arportolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafayportolio.netlify.app/)
 
 ---
 
