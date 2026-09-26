@@ -103,7 +103,7 @@
 
 [![Railway Ticketing API](https://img.shields.io/badge/Railway%20Ticketing%20API-0B1F3A?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/DevAbdurRafay/railway_ticketing_api) <br/>
 
-[![AnalystGPT](https://img.shields.io/badge/AnalystGPT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/DevAbdurRafay/analystgpt)
+[![CareerPearls](https://img.shields.io/badge/CareerPearls-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/DevAbdurRafay/careerpearls)
 
 [![Mobile Sales Insight](https://img.shields.io/badge/Mobile%20Sales%20Insight-1A1033?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/DevAbdurRafay/Mobile-Sales-Insight) <br/>
 
