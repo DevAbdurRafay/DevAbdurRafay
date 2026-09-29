@@ -12,9 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=30&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Power+BI+Developer;Turns+Raw+Data+into+Gold;AI+%26+Data+Science+Student" alt="Typing SVG" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=orange&style=flat-square" alt="Profile Hits" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=DevAbdurRafay&label=Visitors&color=483D8B&style=flat-square" alt="Profile Hits" />
 
 <br>
 
