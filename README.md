@@ -44,8 +44,7 @@
 - 📊 **Data Analyst** **| Python Enthusiast**  
 - 🤖 Enrolled in **AI & Data Science Diploma (SMIT – 1 Year)**  
 - 🧮 Working with **Power BI, Excel, SQL & Python**  
-- 🤝 Open to collaborate on **Data Analysis & Visualization projects**  
-- 💬 Ask me about **Power BI, Tableau, Python, Data Visualization**  
+- 🤝 Open to collaborate on **Data Analysis & Visualization projects**    
 - 📫 Reach me at: **abdulrafayrohail@gmail.com**
 
 ---
